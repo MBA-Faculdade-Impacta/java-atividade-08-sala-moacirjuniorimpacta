@@ -34,7 +34,7 @@ public class JavaSpringTemplateApplication {
 		pf.setTipo("PF");
 		
 		
-		System.out.println(pf.falarDocumento());
+		System.out.println(pf.getDocumento());
 		System.out.println(pf.getTipo());
 	}
 
